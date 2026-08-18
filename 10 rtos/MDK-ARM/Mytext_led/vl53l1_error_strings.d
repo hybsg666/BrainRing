@@ -1,0 +1,17 @@
+mytext_led\vl53l1_error_strings.o: ..\VL53L1X\VL53L1\core\vl53l1_error_strings.c
+mytext_led\vl53l1_error_strings.o: ..\VL53L1X\VL53L1\core\vl53l1_error_codes.h
+mytext_led\vl53l1_error_strings.o: ..\VL53L1X\VL53L1\platform\vl53l1_types.h
+mytext_led\vl53l1_error_strings.o: D:\STM32\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+mytext_led\vl53l1_error_strings.o: D:\STM32\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+mytext_led\vl53l1_error_strings.o: D:\STM32\Keil5\ARM\ARMCC\Bin\..\include\string.h
+mytext_led\vl53l1_error_strings.o: D:\STM32\Keil5\ARM\ARMCC\Bin\..\include\stdio.h
+mytext_led\vl53l1_error_strings.o: D:\STM32\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+mytext_led\vl53l1_error_strings.o: ..\VL53L1X\VL53L1\core\vl53l1_error_strings.h
+mytext_led\vl53l1_error_strings.o: ..\VL53L1X\VL53L1\platform\vl53l1_platform_log.h
+mytext_led\vl53l1_error_strings.o: ..\VL53L1X\VL53L1\core\vl53l1_ll_def.h
+mytext_led\vl53l1_error_strings.o: ..\VL53L1X\VL53L1\core\vl53l1_ll_device.h
+mytext_led\vl53l1_error_strings.o: ..\VL53L1X\VL53L1\platform\vl53l1_platform_user_config.h
+mytext_led\vl53l1_error_strings.o: ..\VL53L1X\VL53L1\core\vl53l1_register_structs.h
+mytext_led\vl53l1_error_strings.o: ..\VL53L1X\VL53L1\core\vl53l1_register_map.h
+mytext_led\vl53l1_error_strings.o: ..\VL53L1X\VL53L1\platform\vl53l1_platform_user_defines.h
+mytext_led\vl53l1_error_strings.o: ..\VL53L1X\VL53L1\core\vl53l1_error_exceptions.h
